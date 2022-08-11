@@ -1,5 +1,6 @@
 # EDA_Spotify
-exploratory data analysis for spotify using spotipy lib. to get data that is stored in .csv file
+exploratory data analysis for spotify using spotipy lib. to get data that is stored in .csv file.
+
 Analysis and clustering of popular songs and their attributes using Spotify API.
 
 Python's spotipy library is used to get data from Spotify. By doing searches with characters(A-Z, 0-9) 1750 songs were collected. These songs are shared in the .csv file.

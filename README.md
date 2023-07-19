@@ -1,8 +1,17 @@
 # EDA_Spotify
-exploratory data analysis for spotify using spotipy lib. to get data that is stored in .csv file.
+Spotify Dataset 2022 - Exploratory Data Analysis and Clustering
 
-Analysis and clustering of popular songs and their attributes using Spotify API.
+Spotify Dataset
 
-Python's spotipy library is used to get data from Spotify. By doing searches with characters(A-Z, 0-9) 1750 songs were collected. These songs are shared in the .csv file.
+Description:
+This repository contains an in-depth Exploratory Data Analysis (EDA) of the Spotify Dataset from 2022. 
+Through insightful visualizations and statistical analysis, we gain valuable insights into trends and patterns within the music industry.
+Additionally, we apply clustering algorithms to group songs based on their audio features, enabling us to understand the distinct characteristics of different music genres and artist styles.
 
-Numerical features provided by spotify are collected and analyzed. K-Means Clustering Algorithm is used to group songs that are similar to each other.
+Contents:
+
+data/: Folder containing the Spotify Dataset 2022 in CSV format.
+notebooks/: Jupyter Notebooks with step-by-step EDA and clustering code.
+results/: Folder to store the generated plots, charts, and clustering outputs.
+LICENSE: License information for the project.
+
